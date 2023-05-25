@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Unlocking the Potential
-nav_order: 1
-has children: no
+nav_order: 2
 ---
 
 # Unlocking the Potential: How ChatGPT can revolutionize Content Creation for Designers
