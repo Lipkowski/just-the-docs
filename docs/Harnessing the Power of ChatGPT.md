@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Harnessing the Power of ChatGPT
-nav_order: 8
+nav_order: 9
 ---
 
 # Harnessing the Power of ChatGPT in Your Design Process
