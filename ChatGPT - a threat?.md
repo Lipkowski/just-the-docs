@@ -1,3 +1,9 @@
+---
+layout: default
+title: ChatGPT — a threat?
+nav_order: 9
+---
+
 # ChatGPT — a threat to the future of the workplace for designers?
 
 The rise of artificial intelligence and machine learning technologies has brought both excitement and apprehension to various industries, including content design. ChatGPT has gained significant attention for its ability to generate human-like text. However, amidst the buzz and innovation, concerns have been raised about whether ChatGPT poses a threat to the future of the workplace for content designers. In this part, we’ll learn more about the topic and assess the potential implications of ChatGPT on content designers' roles and the design industry as a whole.
