@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ethical Considerations
-nav_order: 5
+nav_order: 6
 ---
 
 # Navigating Ethical Considerations: How Content Designers Can Use ChatGPT Responsibly
