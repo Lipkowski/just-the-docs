@@ -1,3 +1,9 @@
+---
+layout: default
+title: Ethical Considerations
+nav_order: 5
+---
+
 # Navigating Ethical Considerations: How Content Designers Can Use ChatGPT Responsibly
 
 As content designers, it's important to not only create high-quality content but also do so ethically and responsibly. ChatGPT can be a powerful tool for enhancing your content creation process, but it also raises important ethical considerations that content designers must be aware of. In this part, we'll examine some of those considerations that are relevant to content designers and we’ll learn how to use ChatGPT responsibly.
