@@ -10,3 +10,6 @@ aux_links:
 color_scheme: dark
 
 heading_anchors: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
