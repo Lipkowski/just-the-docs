@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Simple Tips for Asking Great Questions
 nav_order: 4
 parent: Unlocking the Potential
