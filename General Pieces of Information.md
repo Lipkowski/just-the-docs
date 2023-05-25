@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Introduction
+title: General Pieces of Information
 nav_order: 2
-description: 
 has children: no
-permalink: /
 ---
 
 # General Pieces of Information
