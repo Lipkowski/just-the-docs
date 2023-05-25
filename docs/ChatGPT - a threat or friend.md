@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ChatGPT — a threat or friend
-nav_order: 9
+nav_order: 10
 ---
 
 # ChatGPT — a threat to the future of the workplace for designers?
