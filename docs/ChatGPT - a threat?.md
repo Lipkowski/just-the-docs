@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ChatGPT — a threat?
+title: ChatGPT — a threat or friend
 nav_order: 9
 ---
 
