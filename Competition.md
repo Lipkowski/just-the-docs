@@ -1,3 +1,9 @@
+---
+layout: default
+title: OpenAI's Terms and Conditions
+nav_order: 7
+---
+
 # Competition in the Conversational AI Market
 
 Why choose ChatGPT when there are other options available? Simply put, it's the most popular choice. Even if you're not familiar with IT-related topics, you've probably heard of ChatGPT.
