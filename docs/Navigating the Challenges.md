@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Navigating the Challenges
-nav_order: 4
+nav_order: 5
 ---
 
 # Navigating the Challenges: How ChatGPT Presents Unique Hurdles for Content Designers
