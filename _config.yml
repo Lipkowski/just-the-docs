@@ -7,5 +7,6 @@ url: https://Lipkowski.github.io/Possibilities_and_limitations_of_ChatGPT_in_ter
 aux_links:
   Template Repository: https://github.com/Lipkowski/just-the-docs
   
-  plugins:
-  - jekyll-default-layout
+color_scheme: dark
+
+heading_anchors: true
