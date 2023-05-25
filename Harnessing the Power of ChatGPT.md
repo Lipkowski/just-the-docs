@@ -1,3 +1,9 @@
+---
+layout: default
+title: Harnessing the Power of ChatGPT
+nav_order: 8
+---
+
 # Harnessing the Power of ChatGPT in Your Design Process
 
 There is so much talk about ChatGPT, but it's best to find out exactly what it offers yourself. Below you'll find examples of uses for content creation and design:
