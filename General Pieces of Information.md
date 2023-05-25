@@ -2,7 +2,6 @@
 layout: default
 title: General Pieces of Information
 nav_order: 2
-has children: no
 ---
 
 # General Pieces of Information
