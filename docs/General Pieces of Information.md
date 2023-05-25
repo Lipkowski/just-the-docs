@@ -29,4 +29,4 @@ OpenAI has distinguished itself by its commitment to responsible and ethical AI 
 
  ![Elon Musk about Open AI](../Images/Elon%20Musk.png)
 
- Moving forward, we explore the [opportunities]([Unlocking%20the%20Potential.md](https://lipkowski.github.io/just-the-docs/)), [challenges]([Navigating%20the%20Challenges.md](https://lipkowski.github.io/just-the-docs/)), and [ethical considerations]([Navigating%20Ethical%20Considerations.md](https://lipkowski.github.io/just-the-docs/)) of using ChatGPT for content design.
+ Moving forward, we explore the [opportunities](https://lipkowski.github.io/just-the-docs/docs/Unlocking%20the%20Potential.html), [challenges]([Navigating%20the%20Challenges.md](https://lipkowski.github.io/just-the-docs/)), and [ethical considerations]([Navigating%20Ethical%20Considerations.md](https://lipkowski.github.io/just-the-docs/)) of using ChatGPT for content design.
