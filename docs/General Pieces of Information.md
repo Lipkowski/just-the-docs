@@ -19,7 +19,7 @@ OpenAI, an industry-leading organization founded in 2015, has been at the forefr
 
 > We commit to use any influence we obtain over AGI’s deployment to ensure it is used for the benefit of all, and to avoid enabling uses of AI or AGI that harm humanity or unduly concentrate power [(source)](https://openai.com/charter).
 
- ## A Commitment to Ethical AI
+## A Commitment to Ethical AI
 
 OpenAI has distinguished itself by its commitment to responsible and ethical AI development. They strive to create safe and unbiased AI systems that benefit society as a whole. OpenAI actively engages in ongoing research and engineering to address potential risks and to ensure that AI technologies are designed and deployed in a manner that aligns with human values. By adhering to strict guidelines and continuously refining its models, OpenAI aims to build trust and foster a positive impact on the AI community.
 
