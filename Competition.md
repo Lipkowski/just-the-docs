@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OpenAI's Terms and Conditions
+title: Competition
 nav_order: 7
 ---
 
