@@ -1,11 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Possibilities and limitations of ChatGPT in terms of content design
+description: This is my final project for Vistula.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://Lipkowski.github.io/Possibilities_and_limitations_of_ChatGPT_in_terms_of_content_design
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/Lipkowski/just-the-docs
   
   plugins:
   - jekyll-default-layout
