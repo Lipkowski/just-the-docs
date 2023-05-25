@@ -1,3 +1,10 @@
+---
+layout: default
+title: Unlocking the Potential
+nav_order: 1
+has children: no
+---
+
 # Unlocking the Potential: How ChatGPT can revolutionize Content Creation for Designers
 
 As content designers, we're always looking for ways to improve your content creation process and produce high-quality content that engages your audience. One tool that can help you achieve these goals is ChatGPT, a machine-learning model that generates human-like language. In this article, we'll explore the opportunities ChatGPT offers content designers and how it can revolutionize how you approach content creation.
