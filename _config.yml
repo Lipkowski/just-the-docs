@@ -7,28 +7,9 @@ url: https://Lipkowski.github.io/Possibilities_and_limitations_of_ChatGPT_in_ter
 aux_links:
   GitHub Repository: https://github.com/Lipkowski/just-the-docs
   
-color_scheme: dark
+color_scheme: nil
 
 heading_anchors: true
 
 back_to_top: true
 back_to_top_text: "Back to top"
-
-color_scheme: nil
-
-callouts_level: quiet
-callouts:
-  highlight:
-    color: yellow
-  important:
-    title: Important
-    color: blue
-  new:
-    title: New
-    color: green
-  note:
-    title: Note
-    color: purple
-  warning:
-    title: Warning
-    color: red
