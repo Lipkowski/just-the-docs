@@ -9,10 +9,10 @@ parent: Unlocking the Potential
 
 Here is an example of real-life use of ChatGPT in writing process. The goal is to prepare inspiration for creating a copy to mobile app, used for communication. I am kicking off with following prompt:
 
->Prompt 1: **Write a short UI copy for the app's start screen, in which you explain that creating an account in the app also allows you to access its other services. This works more or less like a Google account. But don't mention Google.**
+Prompt 1: 
+>**Write a short UI copy for the app's start screen, in which you explain that creating an account in the app also allows you to access its other services. This works more or less like a Google account. But don't mention Google.**
 
->>Answer 1: 
->>
+Answer 1: 
 >>Welcome to our App!
 
 >>Create an account to unlock a world of possibilities. By signing up, you gain access to a seamless experience across all our services. From personalized recommendations to effortless syncing, your account lets you dive deeper into our app's offerings.
