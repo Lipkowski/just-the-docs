@@ -9,6 +9,15 @@ aux_links:
   
 color_scheme: nil
 
+callouts:
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+
 heading_anchors: true
 
 back_to_top: true
