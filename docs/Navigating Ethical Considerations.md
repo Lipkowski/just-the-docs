@@ -12,13 +12,13 @@ ChatGPT can be a powerful tool for enhancing your content creation process, but 
 
 ChatGPT can generate human-like text, which can blur the lines between human and machine-generated content. Content designers need to be transparent about when and how ChatGPT is being used. This can be done through disclaimers or explicitly labeling machine-generated content. By being transparent about ChatGPT's role in the content creation process, content designers uphold ethical standards and maintain trust with their audience.
 
-## Protecting Privacy and Security
+## Protecting Privacy
 
-ChatGPT requires vast amounts of data to be trained effectively, which can raise concerns about privacy. Content designers must take steps to protect the privacy of the data used while interacting with ChatGPT. This can include using anonymized identities where possible for e.g. “Write a resignation letter in the name of X, handing it to company Y”, limit personal information sharing, and be mindful of conversation content e.g. not sharing internal/confidential data. Remember that the conversations are processed and stored, so exercise caution about the information you disclose.
+ChatGPT requires vast amounts of data to be trained effectively, which can raise concerns about privacy. Content designers must take steps to protect the privacy of the data used while interacting with ChatGPT. This can include using anonymized identities where possible for e.g. “Write a resignation letter in the name of X, handing it to company Y”, limit personal information sharing, and be mindful of conversation content e.g. not sharing internal/confidential data. Remember that the conversations are processed and stored, so exercise caution about the information you disclose.<br>
 You will find how OpenAI speaks about privacy policies in chapter [OpenAI's Terms and Conditions: A Closer Look at Privacy Policies.](https://techcommvistula.atlassian.net/wiki/spaces/TECHCOMMVI/pages/132874300/Possibilities+and+limitations+of+ChatGPT+in+terms+of+content+design#Part-4%3A-OpenAI's-Terms-and-Conditions%3A-A-Closer-Look-at-Privacy-Policies)
 
 
-## Avoiding Plagiarism and Copyright Infringement
+## Plagiarism and Copyright Infringement
 
 ChatGPT generates text based on patterns it has learned from vast amounts of textual data, which can raise concerns about copyright infringement and intellectual property.
 
