@@ -82,6 +82,7 @@ There is so much talk about ChatGPT, but it's best to find out exactly what it o
    
    c. *Condense the important information from this product specification document: [paste the document here]*
 
+{: .warning }
    **WARNING**: While ChatGPT is proficient in generating summaries, it's essential to consider the source and privacy of the data provided. **Ensure you have obtained appropriate permissions to use and share user data with an AI tool**. If there's any uncertainty, it's better to err on the side of caution and refrain from sharing.
 
 I summed up some of the useful features but to learn more and deepen your knowledge of the possibilities of ChatGPT follow this link.
