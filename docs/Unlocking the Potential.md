@@ -35,8 +35,6 @@ As content designers, we're always looking for ways to improve our content creat
    
    c. *What are the recommended accessibility guidelines for designing web interfaces?*
 
-   **WARNING**: It is crucial to exercise caution when relying on ChatGPT for information, as the tool **may occasionally produce misrepresent facts or produce falsehoods** (see note on hallucination above). Identifying incorrect answers can be challenging given the seamless and persuasive nature of its outputs. Consider using Google for facts; please **don’t believe everything it generates.**
-
 3. **Researching — conducting desk research using ChatGPT**
    
    ChatGPT proves to be an exceptional resource for desk research, as it offers valuable insights into various topics. Its ability to describe common knowledge makes it an ideal tool for gaining a deeper understanding of subject matters. You can uncover valuable insights about user expectations and preferences by posing questions like "What are the key elements of a memorable hotel stay?" to ChatGPT. ChatGPT is a great place to start and end a research project.
