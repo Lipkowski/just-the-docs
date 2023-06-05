@@ -6,49 +6,47 @@ nav_order: 8
 
 # OpenAI's Terms and Conditions: A Closer Look at Privacy Policies
 
-When engaging with any online platform or service, it's crucial to understand the terms and conditions that govern your interaction. OpenAI has its own set of terms and conditions that users should be familiar with. Privacy is a fundamental concern in today's digital landscape, where personal data is being shared and processed daily. OpenAI says it recognizes the importance of protecting user privacy and has implemented policies to ensure the responsible use of data. Let’s delve into OpenAI's terms and conditions, specifically focusing on the company's privacy policies and highlight relevant quotes from the company.
+When engaging with any online platform or service, it's crucial to understand the terms and conditions that govern your interaction. OpenAI has its own set of terms and conditions that users should be familiar with.
 
 ## Data Collection and Usage
 
-OpenAI collects user data following applicable privacy laws and regulations. The company is committed to using data responsibly and solely for the purposes outlined in its privacy policy. OpenAI emphasizes the importance of safeguarding user information and maintaining the confidentiality of any data shared with its systems.
+OpenAI collects user data (Point 1, Personal information we collect) following applicable privacy laws and regulations. The company is committed to using data responsibly and solely for the purposes outlined in its privacy policy. OpenAI emphasizes the importance of safeguarding user information and maintaining the confidentiality of any data shared with its systems. 
+
+Users have the right to manage their data and can exercise their preferences regarding the collection, storage, and processing of their information.
 
 In the words of OpenAI:
 
->We place a strong emphasis on user privacy and data protection. We collect and handle user data in a secure and confidential manner, adhering to industry best practices and legal requirements.
+>When you use our non-API consumer services ChatGPT or DALL-E, we may use the data you provide us to improve our models. You can switch off training in ChatGPT settings (under Data Controls) to turn off training for any conversations created while training is disabled or you can submit [this form](https://docs.google.com/forms/d/e/1FAIpQLScrnC-_A7JFs4LbIuzevQ_78hVERlNqqCPCt3d8XqnKOfdRdQ/viewform). Once you opt out, new conversations will not be used to train our models.<br>
+>source: [How your data is used to improve model performance](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance)
 
-## Consent and Control
+## How is your data used?
 
-OpenAI recognizes the significance of user consent and provides individuals with control over their data. Users have the right to manage their data and can exercise their preferences regarding the collection, storage, and processing of their information.
+OpenAI may use Personal Information for the following purposes:
 
-OpenAI ensures transparency and user empowerment by stating:
+1. Providing and maintaining services.
 
->We believe in giving users control over their data. You have the right to review, modify, and delete your personal information. We strive to provide you with clear and accessible mechanisms to exercise your rights.
+2. Improving services and conducting research.
 
-## Third-Party Sharing
+3. Communication with users.
 
-OpenAI's commitment to privacy extends to its interactions with third parties. The company upholds strict confidentiality standards when engaging in data sharing or collaborations. OpenAI ensures that any third parties with whom data is shared adhere to the same level of privacy and security practices.
+4. Developing new programs and services.
 
-As OpenAI states:
+5. Preventing fraud, criminal activity, and ensuring security.
 
->We take great care in selecting and working with trusted partners who share our commitment to privacy and data protection. Any data shared with third parties is done so under strict contractual agreements and safeguards.
+6. Complying with legal obligations and protecting rights, privacy, safety, or property.
 
-## Continuous Improvement
+For more details, refer to OpenAI's privacy policy, point 2 “[How we use personal information](https://openai.com/privacy-policy)”.
 
-OpenAI recognizes that privacy is an ongoing concern and is committed to continuously improving its privacy practices. The company actively monitors developments in privacy regulations and incorporates changes to ensure compliance and alignment with industry standards.
-
-In the words of OpenAI:
-
->We are dedicated to staying up-to-date with privacy regulations and best practices. Our privacy policies and practices are regularly reviewed and updated to reflect any changes that enhance user privacy and data protection.
+{: .note}
+Remember that you can always opt out of OpenAI’s use of your Content to train their models. All you need to do is submit form or switch off training in ChatGPT setting.To monitor for abuse,  all conversations will retain for 30 days before permanently deleting.
 
 ## Resources and Quotes
 
 To gain a deeper understanding of OpenAI's privacy policies and practices, I highly recommend reviewing the official terms and conditions document, which includes the company's privacy policy. Here are some relevant links that provide valuable insight:
 
 1. [OpenAI Terms and Conditions](https://openai.com/policies/terms-of-use)
+
 2. [OpenAI Privacy Policy](https://openai.com/privacy-policy)
 
-By exploring these resources, you can familiarize yourself with OpenAI's specific privacy policies and guidelines.
+3. [OpenAI Help Centre](https://help.openai.com/en/collections/3742473-chatgpt)
 
-## Conclusion
-
-OpenAI places a strong emphasis on privacy and data protection, ensuring that user information is handled with care and in compliance with applicable regulations. The company's commitment to transparency, consent, and control empowers users to make informed decisions about their data. By reviewing OpenAI's terms and conditions and privacy policy, you can gain a comprehensive understanding of how your privacy is safeguarded when engaging with their services.
