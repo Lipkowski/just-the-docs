@@ -12,6 +12,7 @@ Here is an example of real-life use of ChatGPT in writing process. The goal is t
 >Prompt 1: **Write a short UI copy for the app's start screen, in which you explain that creating an account in the app also allows you to access its other services. This works more or less like a Google account. But don't mention Google.**
 
 >>Answer 1: Welcome to our App!
+
 Create an account to unlock a world of possibilities. By signing up, you gain access to a seamless experience across all our services. From personalized recommendations to effortless syncing, your account lets you dive deeper into our app's offerings.
 Don't miss out on exclusive features tailored just for you. With your account, you can save your progress, easily manage your preferences, and enjoy a hassle-free journey through our app.
 Join our growing community today and embark on a seamless exploration of everything we have to offer. Start by creating your account and discover a new level of convenience and enjoyment. Let's get started!”.
