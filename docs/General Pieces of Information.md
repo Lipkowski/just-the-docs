@@ -15,7 +15,7 @@ The rapid adoption of ChatGPT is impressive, with a million users signing up in 
 
 ## OpenAI: Empowering Human Potential with ChatGPT
 
-OpenAI, an industry-leading organization founded in 2015, has been at the forefront of advancing artificial intelligence (AI) and driving innovation. With a mission to ensure that artificial general intelligence (AGI) benefits all of humanity, OpenAI has made significant contributions to the AI landscape. One of their remarkable achievements is the development of ChatGPT, an AI-powered language model that has captured the imagination of both professionals and enthusiasts alike.
+OpenAI, an industry-leading organization founded in 2015, has been at the forefront of advancing artificial intelligence (AI) and driving innovation. OpenAI began as a nonprofit organization, but in 2019 it transitioned to become a capped-for-profit business.
 
 > We commit to use any influence we obtain over AGI’s deployment to ensure it is used for the benefit of all, and to avoid enabling uses of AI or AGI that harm humanity or unduly concentrate power [(source)](https://openai.com/charter).
 
