@@ -21,18 +21,18 @@ Answer 1:
 >>
 >>Join our growing community today and embark on a seamless exploration of everything we have to offer. Start by creating your account and discover a new level of convenience and enjoyment. Let's get started!.
 
->Prompt 2: **Try to fit in 2 sentences, keep the structure: headline + short description.**
+Prompt 2:
+>**Try to fit in 2 sentences, keep the structure: headline + short description.**
 
->>Answer 2:
->>
+Answer 2:
 >>Unlock More with an Account
 >>
 >>Create an account to access enhanced features and services throughout the app, making your experience even more personalized and convenient. Join now and discover a world of possibilities at your fingertips.
 
->Prompt 3: **Great, provide 3 versions of this copy. Imitate the tone of Google, Facebook, Atlassian.**
+Prompt 3:
+>**Great, provide 3 versions of this copy. Imitate the tone of Google, Facebook, Atlassian.**
 
->>Answer 3: 
->>
+Answer 3: 
 >>Google-inspired version:
 >>
 >>Get More with an Account
@@ -51,10 +51,10 @@ Answer 1:
 >>
 >>Create an account to unlock a suite of powerful features and services, empowering you to maximize your productivity and collaboration within our app. Start your account now and experience a whole new level of efficiency and success.
 
->Prompt 4: **generate 5 other options with the same tone: "Connect and Explore with an Account Create an account to access a wide range of enhanced features and services, allowing you to effortlessly connect and explore in our app. Join our community today and embark on a journey of endless possibilities."**
+Prompt 4:
+>**generate 5 other options with the same tone: "Connect and Explore with an Account Create an account to access a wide range of enhanced features and services, allowing you to effortlessly connect and explore in our app. Join our community today and embark on a journey of endless possibilities."**
 
->>Answer 4: 
->>
+Answer 4: 
 >>1.Expand Your Horizons with an Account
 >>
 >>Sign up now to unlock a vast array of enhanced features and services, enabling you to effortlessly expand your horizons within our app. Join our vibrant community today and embark on an exciting journey of limitless possibilities.
