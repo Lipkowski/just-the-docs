@@ -12,3 +12,5 @@ My name is [Przemysław Lipkowski](https://www.linkedin.com/in/przemys%C5%82aw-l
 I started my journey with ChatGPT (free plan) at the beginning of 2023 and I have been using it ever since to boost my productivity and the quality of content I provide. The free plan gives me all the help I need with tasks such as answering problematic emails, clarifying hard-to-understand manuals, researching the problem in question, and many more. It helped me out when the deadlines seemed impossible to meet. 
 
 Hopefully, you will also find ChatGPT helpful, so sit back, relax, and get to know GPT better!
+
+![ChatGPT 1st interaction](../Images/Hi! How are you?.png)
