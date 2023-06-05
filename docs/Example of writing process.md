@@ -75,6 +75,7 @@ Here is an example of real-life use of ChatGPT in writing process. The goal is t
 >>
 >>Unlock a world of enhanced connectivity by creating an account and gain access to a wide range of features and services. Seamlessly connect and explore within our app, joining our community of like-minded individuals on an enriching journey of endless possibilities. Sign up now and start connecting today.
 
+{: .note}
 You can use the produced copy as inspiration for your own work.With your own ideas, you can go back to the chat and check the length of the translations, grammar, readability, ask to change repeated words, etc.
 
 ![MacBook Air - 2](https://github.com/Lipkowski/just-the-docs/assets/118655373/7744e9c6-4339-4081-ba84-3cb4b7257760)
