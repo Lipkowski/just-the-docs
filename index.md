@@ -13,4 +13,4 @@ I started my journey with ChatGPT (free plan) at the beginning of 2023 and I hav
 
 Hopefully, you will also find ChatGPT helpful, so sit back, relax, and get to know GPT better!
 
-![ChatGPT 1st interaction](just-the-docs/Images/Hi! How are you?.png)
+<img width="906" alt="Hi! How are you?" src="https://github.com/Lipkowski/just-the-docs/assets/118655373/3a93a055-bde5-417d-b987-abd11636c5fa">
