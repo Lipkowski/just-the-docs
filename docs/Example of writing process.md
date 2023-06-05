@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Example of writing process
-nav_order: 4
+nav_order: 5
 parent: Unlocking the Potential
 ---
 
