@@ -52,7 +52,9 @@ Answer 3:
 >>Create an account to unlock a suite of powerful features and services, empowering you to maximize your productivity and collaboration within our app. Start your account now and experience a whole new level of efficiency and success.
 
 Prompt 4:
->**generate 5 other options with the same tone: "Connect and Explore with an Account Create an account to access a wide range of enhanced features and services, allowing you to effortlessly connect and explore in our app. Join our community today and embark on a journey of endless possibilities."**
+>**generate 5 other options with the same tone: 
+>
+>"Connect and Explore with an Account Create an account to access a wide range of enhanced features and services, allowing you to effortlessly connect and explore in our app. Join our community today and embark on a journey of endless possibilities."**
 
 Answer 4: 
 >>1.Expand Your Horizons with an Account
