@@ -85,4 +85,5 @@ As content designers, we're always looking for ways to improve our content creat
    
    c. *Condense the important information from this product specification document: [paste the document here]*
    
-   
+{ .warning }
+While ChatGPT is proficient in generating summaries, it's essential to consider the source and privacy of the data provided. **Ensure you have obtained appropriate permissions to use and share user data with an AI tool.** If there's any uncertainty, it's better to err on the side of caution and refrain from sharing. Also check if the summary is **complete** (does not omit key information) and **correct** (ChatGPT does not add anything from itself).
