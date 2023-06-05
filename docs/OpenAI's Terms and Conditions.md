@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OpenAI's Terms and Conditions
-nav_order: 7
+nav_order: 8
 ---
 
 # OpenAI's Terms and Conditions: A Closer Look at Privacy Policies
