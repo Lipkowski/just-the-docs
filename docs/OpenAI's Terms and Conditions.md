@@ -38,7 +38,7 @@ OpenAI may use Personal Information for the following purposes:
 For more details, refer to OpenAI's privacy policy, point 2 “[How we use personal information](https://openai.com/privacy-policy)”.
 
 {: .note}
-Remember that you can always opt out of OpenAI’s use of your Content to train their models. All you need to do is submit form or switch off training in ChatGPT setting.To monitor for abuse,  all conversations will retain for 30 days before permanently deleting.
+Remember that you can always opt out of OpenAI’s use of your Content to train their models. All you need to do is submit form or switch off training in ChatGPT setting. To monitor for abuse,  all conversations will retain for 30 days before permanently deleting.
 
 ## Resources and Quotes
 
