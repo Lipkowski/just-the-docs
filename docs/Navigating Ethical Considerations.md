@@ -15,7 +15,7 @@ ChatGPT can generate human-like text, which can blur the lines between human and
 ## Protecting Privacy
 
 ChatGPT requires vast amounts of data to be trained effectively, which can raise concerns about privacy. Content designers must take steps to protect the privacy of the data used while interacting with ChatGPT. This can include using anonymized identities where possible for e.g. “Write a resignation letter in the name of X, handing it to company Y”, limit personal information sharing, and be mindful of conversation content e.g. not sharing internal/confidential data. Remember that the conversations are processed and stored, so exercise caution about the information you disclose.<br>
-You will find how OpenAI speaks about privacy policies in chapter [OpenAI's Terms and Conditions: A Closer Look at Privacy Policies.](https://techcommvistula.atlassian.net/wiki/spaces/TECHCOMMVI/pages/132874300/Possibilities+and+limitations+of+ChatGPT+in+terms+of+content+design#Part-4%3A-OpenAI's-Terms-and-Conditions%3A-A-Closer-Look-at-Privacy-Policies)
+You will find how OpenAI speaks about privacy policies in chapter [OpenAI's Terms and Conditions: A Closer Look at Privacy Policies.](https://lipkowski.github.io/just-the-docs/docs/OpenAI's%20Terms%20and%20Conditions.html)
 
 
 ## Plagiarism and Copyright Infringement
