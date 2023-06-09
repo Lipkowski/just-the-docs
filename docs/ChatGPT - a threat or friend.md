@@ -42,14 +42,8 @@ Furthermore, designers should actively develop new skills to stay up to date wit
 |:-------:|:-----:|
 |Marketing concepts: learn about  understanding the target audience, customer journey, and content marketing. This knowledge helps them grasp the purpose and context of their designs.|Visual design skills: continuously refine your visual design skills, including typography, color theory, composition, and layout. These skills contribute to creating visually appealing and cohesive content designs.|
 |User experience (UX) principles such as organizing information effectively, ensuring usability, and conducting user testing, is important for creating content designs that are user-friendly and impactful.|Multimedia skills: explore and develop skills in multimedia elements like video editing, animation, and interactive design. This enables  to create more engaging and dynamic content experiences.|
-
-Copywriting skills: to create engaging and persuasive content that aligns with the overall design and effectively communicates the intended message.
-
-Data analysis: Understanding how to analyze data and metrics related to content performance empowers you to make informed decisions and optimize your designs for better results.
-
-Content strategy: helps to plan and create content that aligns with the brand's goals, target audience, and overall marketing strategy.
-
-Collaboration and communication: is crucial for designers to effectively work with cross-functional teams, stakeholders, and clients. This ensures a smooth content design process and successful outcomes.
+|Copywriting skills: to create engaging and persuasive content that aligns with the overall design and effectively communicates the intended message.|Data analysis: Understanding how to analyze data and metrics related to content performance empowers you to make informed decisions and optimize your designs for better results.|
+|Content strategy: helps to plan and create content that aligns with the brand's goals, target audience, and overall marketing strategy.|Collaboration and communication: is crucial for designers to effectively work with cross-functional teams, stakeholders, and clients. This ensures a smooth content design process and successful outcomes.|
 
 By embracing technology and continuously expanding skill set, content designers can position themselves as valuable talents in a rapidly evolving design landscape.
 
