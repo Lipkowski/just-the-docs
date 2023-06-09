@@ -38,16 +38,10 @@ Rather than fearing the potential threat of ChatGPT, designers should embrace it
 
 Furthermore, designers should actively develop new skills to stay up to date with technological advancements. What should content designers learn and develop?
 
-|:Learn:|:Develop:|
+|Learn|Develop|
 |:-------:|:-----:|
-
-Marketing concepts: learn about  understanding the target audience, customer journey, and content marketing. This knowledge helps them grasp the purpose and context of their designs.
-
-Visual design skills: continuously refine your visual design skills, including typography, color theory, composition, and layout. These skills contribute to creating visually appealing and cohesive content designs.
-
-User experience (UX) principles such as organizing information effectively, ensuring usability, and conducting user testing, is important for creating content designs that are user-friendly and impactful.
-
-Multimedia skills: explore and develop skills in multimedia elements like video editing, animation, and interactive design. This enables  to create more engaging and dynamic content experiences.
+|Marketing concepts: learn about  understanding the target audience, customer journey, and content marketing. This knowledge helps them grasp the purpose and context of their designs.|Visual design skills: continuously refine your visual design skills, including typography, color theory, composition, and layout. These skills contribute to creating visually appealing and cohesive content designs.|
+|User experience (UX) principles such as organizing information effectively, ensuring usability, and conducting user testing, is important for creating content designs that are user-friendly and impactful.|Multimedia skills: explore and develop skills in multimedia elements like video editing, animation, and interactive design. This enables  to create more engaging and dynamic content experiences.|
 
 Copywriting skills: to create engaging and persuasive content that aligns with the overall design and effectively communicates the intended message.
 
