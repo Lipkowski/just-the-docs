@@ -21,7 +21,7 @@ As content designers, we're always looking for ways to improve our content creat
    
    c. *Compose a blog post about the benefits of practicing mindfulness in the workplace.*
    
-   [Click here to see an example of real-life use of ChatGPT in writing process.]([Example of writing process.md](https://lipkowski.github.io/just-the-docs/docs/Example%20of%20writing%20process.html))
+   [Click here to see an example of real-life use of ChatGPT in writing process.](https://lipkowski.github.io/just-the-docs/docs/Example%20of%20writing%20process.html))
    
 2. **Searching — asking ChatGPT for simple answers to common questions**
    
